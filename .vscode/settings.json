@@ -1,0 +1,6 @@
+{
+  "liveServer.settings.host": "127.0.0.1",
+  "liveServer.settings.port": 3000,
+  "liveServer.settings.root": "/frontend/dist",
+  "liveServer.settings.NoBrowser": false
+}
